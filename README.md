@@ -41,8 +41,9 @@ To use this app, enter a city name in the search bar and click the search button
 
 ## Deployment
 
-- [GitHub Repository](git@github.com:mia2380/Mod-6-weather-app.git)
-- [GitHub Pages](https://mia2380.github.io/Mod-6-weather-app/)
+- GitHub Repository: git@github.com:mia2380/Mod-6-weather-app.git
+
+- GitHub Pages: https://mia2380.github.io/Mod-6-weather-app/
 
 ## Screenshot
 
