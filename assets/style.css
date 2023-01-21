@@ -1,0 +1,37 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: url(https://c4.wallpaperflare.com/wallpaper/736/602/372/sky-beautiful-computer-wallpaper-preview.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+main {
+  font-family: "Poppins", sans-serif;
+}
+
+#current-weather {
+  line-height: 200%;
+}
+
+h3 {
+  font-weight: bold;
+}
+.forecast {
+  font-size: 0.9em;
+}
+span {
+  font-size: 1em;
+}
+li:hover {
+  background-color: rgb(90, 186, 186);
+  text-decoration: underline;
+}
