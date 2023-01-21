@@ -29,11 +29,11 @@ THEN I am again presented with current and future conditions for that city
 
 ## Description
 
-This is a weather app that allows the user to search for a city and see the current weather and a 5-day forecast. The user can also see the history of cities they have searched for. The app uses the OpenWeatherMap API to get the weather data. The app also uses Moment.js to display the current date and time.
+This is a weather app that allows the user to search for a city and see the current weather and a 5-day forecast. The user can also see the history of cities they have searched for. The app uses the OpenWeatherMap API to get the weather data. 
 
 ## Installation
 
-To install this app, clone the repository and open the index.html file in your browser.
+To install this app, clone the repository and open the index.html file in your browser; you could also open the app by using the link for the deploy application.
 
 ## Usage
 
@@ -61,8 +61,3 @@ To use this app, enter a city name in the search bar and click the search button
 ## License
 
 MIT License
-Copyright (c) 2020 [your name]
-
-```
-
-```
